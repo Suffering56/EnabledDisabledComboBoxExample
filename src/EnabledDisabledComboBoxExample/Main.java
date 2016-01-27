@@ -1,4 +1,4 @@
-package modelbox;
+package EnabledDisabledComboBoxExample;
 
 public class Main {
 

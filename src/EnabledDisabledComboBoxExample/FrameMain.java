@@ -1,4 +1,4 @@
-package modelbox;
+package EnabledDisabledComboBoxExample;
 
 import java.util.HashSet;
 import java.util.Set;

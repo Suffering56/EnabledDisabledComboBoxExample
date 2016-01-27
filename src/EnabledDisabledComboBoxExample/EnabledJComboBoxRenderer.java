@@ -1,4 +1,4 @@
-package modelbox;
+package EnabledDisabledComboBoxExample;
 
 import javax.swing.plaf.basic.BasicComboBoxRenderer;
 import java.awt.Color;
